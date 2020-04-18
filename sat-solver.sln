@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "sat-solver", "sat-solver.fsproj", "{AD735EA1-B54B-4D92-85AB-C903D6402079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD735EA1-B54B-4D92-85AB-C903D6402079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD735EA1-B54B-4D92-85AB-C903D6402079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD735EA1-B54B-4D92-85AB-C903D6402079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD735EA1-B54B-4D92-85AB-C903D6402079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3C3EAB-43AA-4812-887E-CE458241A2C7}
+	EndGlobalSection
+EndGlobal
